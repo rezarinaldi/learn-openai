@@ -26,4 +26,4 @@ pip install -r requirements.txt
 ```
 
 ### Source
-
+- [OpenAI](https://pypi.org/project/openai/)
